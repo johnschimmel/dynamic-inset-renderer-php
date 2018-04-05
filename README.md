@@ -1,5 +1,5 @@
-#Dynamic Inset PHP renderer
-##A reference renderer for insets, in php
+# Dynamic Inset PHP renderer
+## A reference renderer for insets, in php
 
 This php library is a reference implementation of a renderer for the [inset.json spec](https://docs.google.com/a/dowjones.com/document/d/1NQ0UZYnyq89RFg3-Y7WxmYr7qVhsVBIrNPDpmgF66JA/edit?usp=sharing).
 
